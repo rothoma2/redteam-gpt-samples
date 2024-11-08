@@ -40,8 +40,8 @@ def google_search(query, api_key, cse_id, num_results=10):
 
 # Example usage
 if __name__ == "__main__":
-    api_key = "AIzaSyD_O2XONbHYWjg_rE2xH0QY9QtfF9guA2U"
-    cse_id = "e3f82556cc9574e0d"
+    api_key = "XXX"
+    cse_id = "XXX"
     query = "Python programming basics"
     
     results = google_search(query, api_key, cse_id)

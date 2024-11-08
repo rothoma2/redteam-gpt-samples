@@ -50,8 +50,8 @@ dork_queries = [
 
 # Example usage with different dorks
 if __name__ == "__main__":
-    api_key = "AIzaSyD_O2XONbHYWjg_rE2xH0QY9QtfF9guA2U"
-    cse_id = "e3f82556cc9574e0d"
+    api_key = "XXX"
+    cse_id = "XXX"
     
     for query in dork_queries:
         print(f"\nResults for query: {query}\n{'-' * 40}")
