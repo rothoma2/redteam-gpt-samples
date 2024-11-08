@@ -1,0 +1,9 @@
+Can you write a python tool, that uses the search api for google to run a google search, 
+I know this API has some limitations on the results. Can you give me some code that I can rest. 
+Dont use any wrapper around Browsers like Selenium.
+
+Can you modify this source code, with some ideas, of queries to do site Google, information gathering using google dorks 
+
+Can you modify the script to perform google dorks, that use .limites for goverment websites in the .cr TLD
+
+Consider costa rica speaks spanish, can you modify the script to consider, this factor in the google dorks.

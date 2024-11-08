@@ -1,0 +1,220 @@
+(.venv) robert@robert:~/pentest_tools/web_query_ddg$ python google_dorks.py
+
+Results for query: site:go.cr "inicio de sesión"
+----------------------------------------
+1. Inicio de Sesión
+https://online.conape.go.cr/apex/f?p=505:LOGIN_DESKTOP::::::
+Mis Aplicaciones Internas. Inicio de Sesión(Interna). Usuario. Contraseña. LoginOlvidó Clave. Regresar www.conape.go.cr.
+
+2. Inicio de sesión
+https://www.seguridadpublica.go.cr/login.aspx
+En caso de que requiera iniciar sesión utilizando Certificado Digital, puede hacerlo aquí. Si todavía no se ha registrado en nuestro sistema, puede hacerlo ...
+
+3. Inicio de Sesión - Municipalidad de Alajuela
+https://contribuyentes.munialajuela.go.cr:9090/UsuarioExterno/Login
+Ingrese a nuestra plataforma. Para este sitio utilice, Google Chrome o Edge. Correo Electrónico. Contraseña. Ingresar ...
+
+4. Login - Inicio de Sesión
+https://portaldgec.mep.go.cr/resultadosEducacionAbierta/Login
+Entrega de Resultados. Dirección de Gestión y Evaluación de la Calidad. INICIO DE SESIÓN. Accederhow_to_reg. Registrarsepassword. Recuperar Códigorestore_page ...
+
+5. Inicio de sesión
+https://www.minae.go.cr/login.aspx
+Restablecer una contraseña olvidada. ¡Unirse ahora! Haga clic para usar su correo electrónico y contraseña para crear una cuenta de usuario. Iniciar
+
+6. Inicio de sesión usando Certificado Digital
+https://www.imprentanacional.go.cr/LoginSigned.aspx
+Inicio de sesión usando Certificado Digital. Introduzca el token o tarjeta inteligente con el certificado para autenticarse. Inicie sesión usando correo ...
+
+7. Portal - Inicio
+https://migracion.go.cr/SitePages/Inicio.aspx
+Inicio de sesión. Realiza búsquedas. Parece que el explorador no tiene JavaScript habilitado. Active JavaScript e inténtelo de nuevo. La Institución. DGME.
+
+8. Trámite de la ley y control político - ConsultaActasPlenario
+https://www.asamblea.go.cr/glcp/SitePages/ConsultaActasPlenario.aspx
+Trámite de la ley y control político · Inicio de sesión. Navegación Realiza búsquedas. Parece que el explorador no tiene JavaScript habilitado. Active ...
+
+9. Inicio de sesión
+https://www.senara.go.cr/login.aspx
+¡Unirse ahora! ... Dirección: Oficinas Centrales del Ministerio de Agricultura y Ganadería. San José, Sabana Sur, antiguo Colegio La Salle, San José Costa Rica.
+
+10. Inicio de sesión
+https://sigad.mep.go.cr/formacionpermanente/titulos
+Reportes antes 2020 · Reportes 2020 en adelante · Certificaciones · Certificados · OFerta formativa · Webinarios / Asistencia · Oferentes externos.
+
+
+Results for query: site:go.cr intitle:"índice de" "archivos sensibles"
+----------------------------------------
+
+Results for query: site:go.cr filetype:pdf "informe de presupuesto"
+----------------------------------------
+1. Informe Liq Presup MSJ 2021
+https://www.msj.go.cr/docu/Presupuesto/Presupuestos,%20Modificaciones%20y%20Liquidaci%C3%B3n%202021/Estado%20de%20Liquidaci%C3%B3n%20Presupuestaria%2031%20de%20diciembre%202021.pdf
+Jun 7, 2022 ... 2-Solicitamos el informe de presupuesto de ingresos y egresos por el período que terminó el 31 de diciembre de 2021. 3-Verificamos la ...
+
+2. informe de seguimiento de las recomendaciones emitidas por la ...
+https://www.rree.go.cr/files/includes/files.php?id=1864&tipo=documentos
+Mar 12, 2021 ... Informe de Presupuesto Nacional del Ministerio de Hacienda ... Informe de Presupuesto Nacional del Ministerio de Hacienda. En oficio ...
+
+3. INFORME FINAL DE GESTION Artículo 12 de la Ley General de ...
+https://www.ministeriodesalud.go.cr/index.php/biblioteca-de-archivos-left/documentos-ministerio-de-salud/ministerio-de-salud/informes-institucionales/informes-de-gestion/informes-de-gestion-directores-as-generales/833-informe-final-de-gestion-directora-general-dra-priscilla-herrera-garcia-mayo-2014-marzo-2015/file
+Mar 31, 2015 ... INFORME DE PRESUPUESTO DE EGRESOS AL 31 DE MARZO DE 2015. PosPre. Aprop. Act. Compromet. Devengado. Disp.Pre. *** GCCR/E-1. SERVICIOS. 4.404 ...
+
+4. JUNTA ADMINISTRATIVA DEL REGISTRO NACIONAL - • Estado de ...
+http://registronacional.go.cr/institucion/documentos/liquidacion%20presupuestaria%20periodo%202014/Liquidacion%20Presupuestaria%20Auditada%20-%20JARN%20-%202020.pdf
+Aug 24, 2021 ... 2-Solicitamos el informe de presupuesto de ingresos y egresos por el período que terminó el 31 de diciembre del 2020. 3-Solicitamos ...
+
+5. Programa de Auditoría
+https://montesdeoca.go.cr/la_municipalidad/transparencia/presupuestos/informe_auditoria_gasto_publico/Informe_Liquidacion_presupuestari_%202019.pdf
+a) Mediante una revisión del Informe de Presupuesto- Egresos de la Municipalidad de Montes de Oca al 31 de diciembre del 2018, se determinó que no se ...
+
+6. Programa de Auditoría
+https://montesdeoca.go.cr/la_municipalidad/transparencia/presupuestos/informe_auditoria_gasto_publico/Informe%20Auditoria%20del%20gasto%20publico%202016.pdf
+a) Mediante una revisión del Informe de Presupuesto- Egresos de la Municipalidad de Montes de Oca al 31 de diciembre del 2016, se determinó que no se ...
+
+7. Informe de Labores
+https://www.desamparados.go.cr/sites/default/files/informe_de_labores_alcaldia_2016-2022_gilberth_jimenez.pdf
+Apr 28, 2022 ... resultados anuales del sistema SIVRI, el informe de Presupuesto Anual y su ejecución, las rendiciones de cuentas elaboradas y aprobadas ...
+
+8. Manual de procedimientos Departamento Administración de ...
+https://pani.go.cr/wp-content/uploads/2024/05/Manual-de-Procedimientos-Departamento-Adminitracio%CC%81n-de-Presupuesto-tercera-actualizacio%CC%81n-2024.pdf
+May 16, 2024 ... Informe de presupuesto: Documento elaborado para dar cumplimiento de las normas, directrices y lineamientos establecidos por los entes externos.
+
+9. INFORME RENDICIÓN DE CUENTAS 2020 PROVEEDURÍA ...
+https://muniloschiles.go.cr/images/documentos2021/Informes_Departamentos/Proveeduria_%20Informe%20_anual_2020.pdf
+Jul 28, 2021 ... presupuestaria real, será proyectada en el informe de Presupuesto. En comparación con el periodo 2019, se detecta el siguiente análisis. 0.
+
+10. ESCUELA JUDICIAL “Lic. Édgar Cervantes Villalta” 1 ACTA n.° 002 ...
+https://escuelajudicialpj.poder-judicial.go.cr/images/Actas_Consejo_Directivo/2021/acta_02_2021_19enero2021.pdf
+Judicial, denominado “II Informe de Presupuesto año 2020 de la Escuela Judicial”, en atención a lo siguiente: -Acuerdo tomado por el CONSEJO DIRECTIVO DE LA ...
+
+
+Results for query: site:go.cr inurl:"php?id="
+----------------------------------------
+1. The Geneva Pledge for Human Rights in Climate Action
+https://www.rree.go.cr/files/includes/files.php?id=453&tipo=contenido
+Feb 13, 2015 ... We, the undersigned, note that climate change-related impacts have a range of implications, both direct and indirect, for the effective ...
+
+2. COMMUNIQUÉ OF THE LATIN AMERICAN AND THE CARIBBEAN ...
+https://www.rree.go.cr/files/includes/files.php?id=2261&tipo=documentos
+Feb 24, 2023 ... a. Emerging technologies pose concrete challenges to international peace and security, and raise new questions about the role of humans in ...
+
+3. OAS Scholarship Program for Education and Training
+https://www.rree.go.cr/files/includes/files.php?id=7888&tipo=becas
+The General Secretariat is the central and permanent organ of the Organization of American States (OAS). Through its Department of Human Development, ...
+
+4. Post-graduate study on Nano-Satellite Technologies (PNST) 2025 ...
+https://www.rree.go.cr/files/includes/files.php?id=11248&tipo=becas
+Partner: Kyutech (Kyushu Institute of Technology) with the support of the Gov. of Japan. (MEXT). ▫ Established: 2013. ▫ Provides 3 students in the Master's ...
+
+5. MECHANISMS BY WHICH LATIN-AMERICAN AND CARIBBEAN ...
+https://www.rree.go.cr/files/includes/files.php?id=10335&tipo=becas
+The following mechanism has been used to allow an individual or organization to serve as guarantor by depositing the amount of the loan in U.S. dollars in ...
+
+6. OAS Scholarship Program for Education and Training
+https://www.rree.go.cr/files/includes/files.php?id=7650&tipo=becas
+Jul 1, 2018 ... The General Secretariat of the OAS (GS/OAS) is the central and permanent organ of the Organization of · American States.
+
+7. MECHANISMS BY WHICH LATIN-AMERICAN AND CARIBBEAN ...
+https://www.rree.go.cr/files/includes/files.php?id=10334&tipo=becas
+Since 1948, the Leo S. Rowe Pan-American Fund (“the Fund”) has been granting interest-free loans to students from Latin America and the Caribbean who study ...
+
+8. OAS Scholarship Program for Education and Training
+https://www.rree.go.cr/files/includes/files.php?id=8127&tipo=becas
+The OAS General Secretariat (GS/OAS) is the central and permanent organ of the Organization of · American States (OAS). ➢ Through its Department of Human ...
+
+9. OAS Scholarship Program for Education and Training
+https://www.rree.go.cr/files/includes/files.php?id=7862&tipo=becas
+Tuition discounts ranging from 30%, 50% and 90% to the top-ranked candidates. ❖ Scholarship benefits are subject to the academic performance of the ...
+
+10. OAS Scholarship Program for Education and Training
+https://www.rree.go.cr/files/includes/files.php?id=7546&tipo=becas
+ABOUT THE PARTNER INSTITUTIONS: ➢ The General Secretariat of the OAS (GS/OAS) is the central and permanent organ of the.
+
+
+Results for query: site:go.cr ext:xlsx "salarios"
+----------------------------------------
+1. Untitled
+https://www.inder.go.cr/transparencia/recursos_humanos/documentacion/Indice%20salarial%20para%20el%20ano%202020.xlsx
+Salarios menores de ¢ 300,000,00 tienen un aumento de ¢ 8,750,00. 51, Salarios mayores a ¢300,000,00 hasta ¢ 350,000,00 tienen un aumento de ¢ 8,500,00. 52 ...
+
+2. Untitled
+https://www.pgr.go.cr/wp-content/uploads/2022/08/Escala-Salarios-PGR-2022-Servicio-Civil.xlsx
+Escala de Salarios 2022. 3. 4, Código, Puesto, Salario Base 2022, Valor Anualidades 2022. 5, 52, Conductor de Servicio Civil 1, ₡ 307,500.00, ₡ 7,398.00. 6, 707 ...
+
+3. salarios brutos 2018
+https://www.incop.go.cr/wp-content/uploads/2019/03/Transparecia2014-2019/UCH/Salarios%20Brutos%202018.xlsx
+SALARIOS BRUTOS 2018. 6. 7. 8. 9. 10, FUNCIONARIO, PLAZA, UNIDAD, SALARIOS BRUTO DICIEMBRE 2018. 11, Acuña Matarrita Agatha Vanessa, Profesional en Informática ...
+
+4. Decreto 43872-H-Gasto
+https://www.hacienda.go.cr/docs/H-001-Gasto.xlsx
+SUELDOS Y SALARIOS, 1120, ASUNTOS LEGISLATIVOS, 15,587,200.00, Se procede a disminuir del primer mes de enero 2023 los salarios bases de algunos puestos ...
+
+5. Untitled
+https://www.mtss.go.cr/elministerio/transparencia/mejora_regulatoria_2016/2019/Denuncia%20en%20linea%20de%20salarios%20minimos%20PMR%202019.xlsx
+La denuncia sobre materia de salarios minimos permite proteger al trabajador y trabajora por sus derechos laborales, garantizando un pago justo por sus ...
+
+6. Untitled
+https://www.invu.go.cr/documents/20181/123603/Salarios+Institucionales
+Funcionarios (A1). A, B, C, D, E. 1, FUNCIONARIOS POR CÓDIGO, CLASIFICACIÓN DE PUESTOS Y SALARIOS BRUTOS (a junio 2017). 2, Código, Salario Base, Nomenclatura ...
+
+7. Untitled
+https://munibuenosaires.go.cr/wp-content/uploads/2024/03/Base_de_Salarios_2021.xlsx
+Lista de Salarios, Recursos Humanos. 12, Grupo Ocupacional, Categoría, Salario base al 31/12/2019, Total de aumento ANUAL 2020, Salario base al 31/12/2020 ...
+
+8. Untitled
+https://www.hacienda.go.cr/docs/Proyecto24378_ColetillaRP.xlsx
+RETRIBUCION SOBRESUELDO MINIMO (ARTICULO 5° LEY DE SALARIOS DE LA ADMINISTRACION PUBLICA 6835) DEL 22/12/82, 1, INGRESOS CORRIENTES, 301, 9,236,500.00. 8, 2024 ...
+
+9. Untitled
+https://www.hacienda.go.cr/docs/Gasto_H-006-v2.xlsx
+... SALARIOS, 1120, ASUNTOS LEGISLATIVOS, 17,000,000.00, De acuerdo con las proyecciones de la Unidad de Administración Financiera, se estima que podrían ...
+
+10. Guía Cálculo Cuota Patronal y Obrera
+https://www.hacienda.go.cr/docs/GuiaCalculoCuotaPatronalyObrera.xlsx
+En la columna D se debe indicar el monto total de los Salarios registrados en INTEGRA que corresponden a los reportados para el SICERE-CCSS para cada uno de los ...
+
+
+Results for query: site:go.cr filetype:docx "confidencial"
+----------------------------------------
+1. AVISO N° 27-2009
+https://justiciarestaurativa.poder-judicial.go.cr/protocolos-penal?download=57:circular-44-2019
+Asunto: Protocolo para la atención de la población confidencial referida al Instituto Nacional de Aprendizaje por las Instancias Operadoras de Justicia. A ...
+
+2. Untitled
+https://proveeduria.poder-judicial.go.cr/index.php/circulares/circulares-2023?download=989:circular-123-2023-confidencialidad-y-manejo-de-la-declaracion-de-beneficiarios-finales-en-los-procesos-de-compras-publicas&start=20
+... confidencial y no es de acceso público. Así mismo instruye a los proveedores para que en la declaración jurada que usualmente se solicita en los pliegos de ...
+
+3. Formulario notificación de concentraciones
+https://sutel.go.cr/sites/default/files/formulario_notificacion_concentraciones%20_0.docx
+Versiones Pública y Confidencial: Deberá presentarse una versión pública y otra confidencial de la solicitud y los documentos adjuntos. La versión pública ...
+
+4. compromiso de confidencialidad para las personas evaluadoras ...
+https://www.dgsc.go.cr/documentos/gestion/planesAsistencia/Anexo%205%20Gu%C3%ADa%20Competencias%20-%20Compromiso%20de%20Confidencialidad.docx
+... confidencial, asumo el siguiente compromiso de confidencialidad, como funcionario(a) que tiene participación en la POG___EBC___ para la evaluación de las ...
+
+5. Untitled
+https://www.asamblea.go.cr/sd/normativa_documental/Protocolo%20Ventanilla%20Unica%20de%20Recepcion.docx
+... confidencial y se escaneará donde se indique que es confidencial. c) Deberán comunicarse con el destinatario, para informar sobre la entrega del documento ...
+
+6. Untitled
+https://www.dgsc.go.cr/documentos/gestion/planesAsistencia/Anexos%20Gu%C3%ADa%20de%20Conocimiento%20Espec%C3%ADfico.docx
+... confidencial, asumo el siguiente compromiso de confidencialidad, como integrante de la CE que tiene participación en la construcción, aplicación, evaluación ...
+
+7. Untitled
+https://secretariacorte.poder-judicial.go.cr/index.php/informacion-general/documentos-interes?download=53511:manual-de-valoracion-de-puestos-por-puntos
+Conoce y maneja amplia información confidencial. VII, 720, Responsabilidad que se enmarca en ejercer actividades de gobierno judicial del más alto nivel y ...
+
+8. Acuerdo de confidencialidad
+https://dgec.mep.go.cr/wp-content/uploads/2024/03/acuerdo-confidencialidad-1.docx
+PRIMERA: Se entenderá como información confidencial: Los estímulos, entiéndase, los cuadernillos de ítems, los audios y las lecturas que se aplicarán a las ...
+
+9. Untitled
+https://www.sfe.go.cr/Consulta_Publica_Registro_Jun2022/AE-REG-PO-12_I-06%20Instructivo%20Admisibilidad%20Registro%20de%20veh%C3%ADculos%20f%C3%ADsicos%20v1.docx
+Se debe revisar que se presente el refrendo químico para los requisitos del Legajo Confidencial. Si el refrendo químico se presenta como una lista en un solo ...
+
+10. Untitled
+https://www.archivonacional.go.cr/web/normativa/ley8292.docx
+... confidencial, excepto para las partes involucradas, las cuales tendrán libre acceso a todos los documentos y las pruebas que obren en el expediente ...
+
+
